@@ -10,3 +10,11 @@ Provides Funcitions like,
 etc.
 
 
+### How do I get set up? ###
+
+download -> http://nulsom.com/source/NS_Rainbow.zip
+download -> https://github.com/SamShah20393/NSRainbowWrapper as zip
+Burn any sample to your divice, open Serial Monitor, type and character and hit send , should start working
+Use Header file in NSRainbowWrapper to see available fucntions
+ 
+ 
